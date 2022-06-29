@@ -1,1 +1,3 @@
 Este es un documento nuevo
+
+Y esta es la actualización de este archivo para conocer el funcionamiento de git
